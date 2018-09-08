@@ -19,3 +19,6 @@ This occurs when scrolling through ListTiles which wrapped by Slidable.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+
+![screenshot_2018-09-08-10-06-36-143_com example slidable redux](https://user-images.githubusercontent.com/2019630/45250089-97caa680-b356-11e8-826e-6cb930c79967.png)
